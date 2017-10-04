@@ -1,2 +1,2 @@
-# DisneyMapAR
-A map to help me navigate Disney Orlando
+# mapboxBoilerplate
+A unity package to get mapbox up and running quick
