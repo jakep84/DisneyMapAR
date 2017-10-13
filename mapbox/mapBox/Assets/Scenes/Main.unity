@@ -154,7 +154,7 @@ Prefab:
     - target: {fileID: 114523324508955362, guid: f5fa969e9be7a4e58b3686b3c39e4628,
         type: 2}
       propertyPath: _latitudeLongitudeString
-      value: 28.385073, -81.563917
+      value: 38.674564, -77.242473
       objectReference: {fileID: 0}
     - target: {fileID: 114708706309078230, guid: f5fa969e9be7a4e58b3686b3c39e4628,
         type: 2}
@@ -179,6 +179,25 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f5fa969e9be7a4e58b3686b3c39e4628, type: 2}
   m_IsPrefabParent: 0
+--- !u!1 &446536819 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1130786676850588, guid: f5fa969e9be7a4e58b3686b3c39e4628,
+    type: 2}
+  m_PrefabInternal: {fileID: 273235281}
+--- !u!114 &446536820
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 446536819}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6813623cf588043fa958028235282143, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _resultsText: {fileID: 0}
+  _startLocationGeocoder: {fileID: 0}
+  _endLocationGeocoder: {fileID: 0}
 --- !u!1 &1653665736
 GameObject:
   m_ObjectHideFlags: 0
